@@ -42,11 +42,15 @@ You will need to have php 5.0 and above as some features used like Interface, Ty
    ```sh
    git clone https://github.com/ezugudor/tracktikCheckout.git
    ```
-2. Initialize Composer for autoload
+2. Navigate to the new cloned project directory
+   ```sh
+   cd tracktikCheckout
+   ```
+3. Initialize Composer for autoload
    ```sh
    Composer install
    ```
-3. From your terminal, navigate to the just cloned directory and run the following command:
+4. From your terminal, navigate to the just cloned directory and run the following command:
    ```JS
    php public/index.php;
    
