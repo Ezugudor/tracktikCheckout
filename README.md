@@ -36,21 +36,17 @@ The information and steps below will guide you to running and seeing the result 
 You will need to have php 5.0 and above as some features used like Interface, Type hinting , etc may not be available in older versions.
 
 
-### Installation
+### Installation 
 
 1. Clone this repo
    ```sh
    git clone https://github.com/ezugudor/tracktikCheckout.git
    ```
-2. Navigate to the new cloned project directory
+2. From your terminal, navigate to the just cloned project directory
    ```sh
    cd tracktikCheckout
    ```
-3. Initialize Composer for autoload
-   ```sh
-   Composer install
-   ```
-4. From your terminal, navigate to the just cloned directory and run the following command:
+3. Run the following command:
    ```JS
    php public/index.php;
    
@@ -64,8 +60,8 @@ You will need to have php 5.0 and above as some features used like Interface, Ty
 
 On successful run , your output should look like the following:
 
-All items total price = 3300 
-Console item total price = 900 
+- All items total price = 3300 
+- Console item total price = 900 
 
 
 
