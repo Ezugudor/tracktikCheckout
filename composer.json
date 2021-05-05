@@ -1,0 +1,16 @@
+{
+    "name": "tracktik/electronic-checkout",
+    "description": "A checkout service for an electronic shop",
+    "authors": [
+        {
+            "name": "Okpara Chukwuezugo Nelson - ezugudor",
+            "email": "nelsonsmrt@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
